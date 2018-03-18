@@ -7,4 +7,4 @@ https://docs.google.com/presentation/d/1pWzrN2ZZO7y4jhqUnVZ6cVokxWNCkpibJXCa1IWz
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+https://github.com/FlawlessLogic/liftoff-assignments/blob/master/P6-Project_Presentation/Nevermind%20Project%20Presentation.pdf
